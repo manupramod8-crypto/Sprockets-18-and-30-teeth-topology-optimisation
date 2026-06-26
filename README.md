@@ -29,4 +29,4 @@ Designed and topology-optimized 18T and 30T power transmission sprockets for a h
 - Engineering Calculations
 - FEA Results
 - Topology Optimization Results
-- Manufacturing Drawings
+  
